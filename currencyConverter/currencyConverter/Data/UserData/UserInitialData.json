@@ -1,0 +1,22 @@
+{
+    "user_id": "nvill02191991",
+    "user_balance": [
+        {
+            "code": "EUR",
+            "balance": 1000.00,
+            "currency_symbol": "€",
+            
+        },
+        {
+            "code": "USD",
+            "balance": 0.00,
+            "currency_symbol": "$",
+        },
+        {
+            "code": "JPY",
+            "balance": 0.00,
+            "currency_symbol": "¥",
+        }
+    ]
+        
+}
